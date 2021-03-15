@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, Nanjing University of Science and Technology, 2018
+* M.S. in Electrical Engineering, University of Texas at San Antonio, 2020
+* Ph.D in Computer Science, Texas Tech University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020 -: Research Assistant
+  * Texas Tech University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020: Teaching Assistant
+  * University of Texas at San Antonio
+
+* Fall 2018 - Fall 2019: Research Assistant
+  * University of Texas at San Antonio
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research
+* Programming
+  * C++
+  * Java
+  * JavaScript
+  * Python
+* Languages: English (proficient), Chinese (native)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2020 SIGKDD Student Registration Award
+* 2020 ICDM Student Travel Award
+* Reviewer for Conference Manuscript Submissions : PAKDD 2020
