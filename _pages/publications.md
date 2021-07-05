@@ -19,4 +19,4 @@ author_profile: true
 
   * <b>Huixin Zhan</b> and Yongcan Cao, "Efficient Multi-objective Reinforcement Learning via Multiple-Gradient Descent with Iteratively Discovered Weight-Vector Sets", <i>Journal of Artificial Intelligence Research, 2021.</i> [(pdf)](https://www.jair.org/index.php/jair/article/view/12270/26648)
 
-  * <b>Huixin Zhan</b>, Yongcan Cao, Manuel Cortez, and Anthony Harris "Proactive Data-driven UAV State Estimation via Online End-to-end Learning", <i>AIAA Scitech 2020 Forum, 2020.</i> [(pdf)](https://arc.aiaa.org/doi/abs/10.2514/6.2020-1090)
+  * <b>Huixin Zhan</b>, Yongcan Cao, Manuel Cortez and Anthony Harris "Proactive Data-driven UAV State Estimation via Online End-to-end Learning", <i>AIAA Scitech 2020 Forum, 2020.</i> [(pdf)](https://arc.aiaa.org/doi/abs/10.2514/6.2020-1090)

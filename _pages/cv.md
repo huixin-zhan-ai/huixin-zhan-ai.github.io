@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Computer Science, Texas Tech University, 2024 (expected)
+* Ph.D. in Computer Science, Texas Tech University, 2024 (expected)
 * M.S. in Electrical Engineering, University of Texas at San Antonio, 2020
 * B.S. in Automation, Nanjing University of Science and Technology, 2018
 
