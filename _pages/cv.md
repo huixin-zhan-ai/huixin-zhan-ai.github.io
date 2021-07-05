@@ -46,4 +46,4 @@ Service and leadership
 * 2020 ICDM Student Travel Award
 * Reviewer for Conference Manuscript Submissions: 
    * PAKDD 2020
-   * ECML-PKDD 2021
+   * ECML PKDD 2021
