@@ -34,7 +34,9 @@ Skills
   * Java
   * JavaScript
   * Python
-* Languages: English (proficient), Chinese (native)
+* Languages: 
+  * English (proficient)
+  * Chinese (native)
 
   
 Service and leadership
