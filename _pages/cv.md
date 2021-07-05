@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Automation, Nanjing University of Science and Technology, 2018
-* M.S. in Electrical Engineering, University of Texas at San Antonio, 2020
+
 * Ph.D in Computer Science, Texas Tech University, 2024 (expected)
+* M.S. in Electrical Engineering, University of Texas at San Antonio, 2020
+* B.S. in Automation, Nanjing University of Science and Technology, 2018
 
 Work experience
 ======
@@ -29,7 +30,7 @@ Work experience
 Skills
 ======
 * Research
-* Programming
+* Programming:
   * C++
   * Java
   * JavaScript
@@ -43,4 +44,6 @@ Service and leadership
 ======
 * 2020 SIGKDD Student Registration Award
 * 2020 ICDM Student Travel Award
-* Reviewer for Conference Manuscript Submissions : PAKDD 2020, ECML-PKDD 2021
+* Reviewer for Conference Manuscript Submissions: 
+   * PAKDD 2020
+   * ECML-PKDD 2021
