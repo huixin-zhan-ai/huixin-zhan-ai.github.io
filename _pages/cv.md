@@ -20,7 +20,7 @@ Work experience
 * Summer 2020 -: Research Assistant
   * Texas Tech University
 
-* Spring 2020: Teaching Assistant
+* Spring 2020 - Summer 2020: Teaching Assistant
   * University of Texas at San Antonio
 
 * Fall 2018 - Fall 2019: Research Assistant
@@ -41,4 +41,4 @@ Service and leadership
 ======
 * 2020 SIGKDD Student Registration Award
 * 2020 ICDM Student Travel Award
-* Reviewer for Conference Manuscript Submissions : PAKDD 2020
+* Reviewer for Conference Manuscript Submissions : PAKDD 2020, ECML-PKDD 2021
