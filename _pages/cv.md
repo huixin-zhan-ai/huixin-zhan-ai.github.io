@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV [here](https://drive.google.com/drive/folders/1B-NCJlwZvd1HKAMFnUTPYeELDWb3kHHO?usp=sharing).
+
 Education
 ======
 
