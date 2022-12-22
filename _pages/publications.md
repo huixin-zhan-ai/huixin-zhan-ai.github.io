@@ -10,18 +10,32 @@ author_profile: true
 
 * <b>Publications @ TTU:</b>
 
-  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "Multi-objective Privacy-preserving Text Representation Learning.'' <i>  In Proceedings of the 30th ACM International Conference on Information & Knowledge Management (CIKM), 2021 </i>(accepted as short paper)
+  * <b>Huixin Zhan</b>, Kun Zhang, Keyi Lu, and Victor S. Sheng, "Measuring the Privacy Leakage via Graph Reconstruction Attacks on Simplicial Neural Networks'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). } 2023.</i> (Accepted) <ins><b>Student Abstract Finalists</b></ins>
+  
+  * <b>Huixin Zhan</b> and Victor S. Sheng, "Privacy-Preserving Representation Learning for Text-Attributed Networks with Simplicial Complexes'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). } 2023.</i>  (Accepted)
+  
+  * Liyuan Gao, <b>Huixin Zhan</b>, Austin Chen, and Victor S. Sheng, "Towards Fair and Selectively Privacy-Preserving Models Using Negative Multi-Task Learning'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). } 2023.</i>  (Accepted)
+  
+  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "New Threats to Privacy-Preserving Text Representations.'' <i> In Proceedings of the 2022 Hawaii International Conference on System Sciences (HICSS), pp. 768-777. 2022. </i>
+  
+  * Zhong Chen, <b>Huixin Zhan</b>, Victor Sheng, Andrea Edwards, and Kun Zhang, "Projection Dual Averaging Based Second-order Online Learning.'' <i> In Proceedings of the 22nd IEEE International Conference on Data Mining (ICDM). 2022. </i> (Accepted)
 
-  * <b>Huixin Zhan</b>, Victor S. Sheng, and Wei-Ming Lin. "Reinforcement learning-based register renaming policy for simultaneous multithreading CPUs.''  <i>  In Expert Systems with Applications (2021): 115717</i>.
+  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "Multi-objective Privacy-preserving Text Representation Learning.'' <i>  In Proceedings of the 30th ACM International Conference on Information & Knowledge Management (CIKM), 2021 </i>(short paper)
+  
+  * <b>Huixin Zhan</b>, Victor S. Sheng, and Wei-Ming Lin, "Reinforcement learning-based register renaming policy for simultaneous multithreading CPUs.''  <i>  In Expert Systems with Applications (2021): 115717</i>.
+  
+  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "HGATs: Hierarchical Graph Attention Networks for Multiple Comments Integration.'' <i> In Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)}, pp. 159-163. 2021.</i> 
 
-  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "Gated Graph Neural Networks (GG-NNs) for Abstractive Multi-comment Summarization.'' <i>  In Proceedings of the 12th IEEE International Conference on Big Knowledge (ICBK), 2021</i> (accepted)
+  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "Gated Graph Neural Networks (GG-NNs) for Abstractive Multi-comment Summarization.'' <i>  In Proceedings of the 12th IEEE International Conference on Big Knowledge (ICBK), 2021</i> 
+  
+  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "K<sup>2</sup>-GNN: Multiple Users’ Comments Integration with Probabilistic K-Hop Knowledge Graph Neural Networks.'' <i>In Proceedings of the Asian Conference on Machine Learning (ACML)}, pp. 1477-1492. 2021.</i> 
 
 * <b>Publications @ UTSA:</b>
 
-  * <b>Huixin Zhan</b>, Wei-Ming Lin and Yongcan Cao, "Deep Model Compression Via Two-Stage Deep Reinforcement Learning'', <i> European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2021.</i> [(Link)](https://2021.ecmlpkdd.org/?page_id=1811)
+  * <b>Huixin Zhan</b>, Wei-Ming Lin and Yongcan Cao, "Deep Model Compression Via Two-Stage Deep Reinforcement Learning'', <i> European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021.</i> [(Link)](https://2021.ecmlpkdd.org/?page_id=1811)
 
   * <b>Huixin Zhan</b>, Feng Tao and Yongcan Cao, "Human-guided Robot Behavior Learning: A GAN-assisted Preference-based Reinforcement Learning Approach'', <i> IEEE Robotics and Automation Letters (RA-L), 6, no. 2, 2021: 3545-3552.</i> [(pdf)](https://ieeexplore.ieee.org/abstract/document/9369902)
 
   * <b>Huixin Zhan</b> and Yongcan Cao, "Efficient Multi-objective Reinforcement Learning via Multiple-Gradient Descent with Iteratively Discovered Weight-Vector Sets'', <i>Journal of Artificial Intelligence Research 70 (JAIR), 2021: 319-349.</i> [(pdf)](https://www.jair.org/index.php/jair/article/view/12270/26648)
 
-  * <b>Huixin Zhan</b>, Yongcan Cao, Manuel Cortez and Anthony Harris "Proactive Data-driven UAV State Estimation via Online End-to-end Learning'', <i>AIAA Scitech 2020 Forum, p. 1090. 2020.</i> [(pdf)](https://arc.aiaa.org/doi/abs/10.2514/6.2020-1090)
+  * <b>Huixin Zhan</b>, Yongcan Cao, Manuel Cortez and Anthony Harris, "Proactive Data-driven UAV State Estimation via Online End-to-end Learning'', <i>AIAA Scitech 2020 Forum, p. 1090. 2020.</i> [(pdf)](https://arc.aiaa.org/doi/abs/10.2514/6.2020-1090)
