@@ -10,11 +10,11 @@ author_profile: true
 
 * <b>Publications @ TTU:</b>
 
-  * <b>Huixin Zhan</b>, Kun Zhang, Keyi Lu, and Victor S. Sheng, "Measuring the Privacy Leakage via Graph Reconstruction Attacks on Simplicial Neural Networks'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). } 2023.</i> (Accepted) <ins><b>Student Abstract Finalists</b></ins>
+  * <b>Huixin Zhan</b>, Kun Zhang, Keyi Lu, and Victor S. Sheng, "Measuring the Privacy Leakage via Graph Reconstruction Attacks on Simplicial Neural Networks'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI) 2023.</i> (Accepted) <ins><b>Student Abstract Finalists</b></ins>
   
-  * <b>Huixin Zhan</b> and Victor S. Sheng, "Privacy-Preserving Representation Learning for Text-Attributed Networks with Simplicial Complexes'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). } 2023.</i>  (Accepted)
+  * <b>Huixin Zhan</b> and Victor S. Sheng, "Privacy-Preserving Representation Learning for Text-Attributed Networks with Simplicial Complexes'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). 2023.</i>  (Accepted)
   
-  * Liyuan Gao, <b>Huixin Zhan</b>, Austin Chen, and Victor S. Sheng, "Towards Fair and Selectively Privacy-Preserving Models Using Negative Multi-Task Learning'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). } 2023.</i>  (Accepted)
+  * Liyuan Gao, <b>Huixin Zhan</b>, Austin Chen, and Victor S. Sheng, "Towards Fair and Selectively Privacy-Preserving Models Using Negative Multi-Task Learning'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). 2023.</i>  (Accepted)
   
   * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "New Threats to Privacy-Preserving Text Representations.'' <i> In Proceedings of the 2022 Hawaii International Conference on System Sciences (HICSS), pp. 768-777. 2022. </i>
   
@@ -24,11 +24,11 @@ author_profile: true
   
   * <b>Huixin Zhan</b>, Victor S. Sheng, and Wei-Ming Lin, "Reinforcement learning-based register renaming policy for simultaneous multithreading CPUs.''  <i>  In Expert Systems with Applications (2021): 115717</i>.
   
-  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "HGATs: Hierarchical Graph Attention Networks for Multiple Comments Integration.'' <i> In Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)}, pp. 159-163. 2021.</i> 
+  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "HGATs: Hierarchical Graph Attention Networks for Multiple Comments Integration.'' <i> In Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), pp. 159-163. 2021.</i> 
 
   * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "Gated Graph Neural Networks (GG-NNs) for Abstractive Multi-comment Summarization.'' <i>  In Proceedings of the 12th IEEE International Conference on Big Knowledge (ICBK), 2021</i> 
   
-  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "K<sup>2</sup>-GNN: Multiple Users’ Comments Integration with Probabilistic K-Hop Knowledge Graph Neural Networks.'' <i>In Proceedings of the Asian Conference on Machine Learning (ACML)}, pp. 1477-1492. 2021.</i> 
+  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "K<sup>2</sup>-GNN: Multiple Users’ Comments Integration with Probabilistic K-Hop Knowledge Graph Neural Networks.'' <i>In Proceedings of the Asian Conference on Machine Learning (ACML), pp. 1477-1492. 2021.</i> 
 
 * <b>Publications @ UTSA:</b>
 
