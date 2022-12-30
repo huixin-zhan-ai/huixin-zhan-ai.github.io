@@ -16,6 +16,10 @@ In general, I am interested in machine learning, knowledge graph, text summariza
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b>[Dec, 2022]</b>. I receive the AAAI-23 Student Scholarship!</li>
+
+  <li> <b>[Dec, 2022]</b>. Invited to serve as a member of the Program Committee (PC) of the KDD-2023 Research Track!</li>
+  
   <li> <b>[Dec, 2022]</b>. <a href="https://huixin-zhan.github.io//publications/">"Measuring the Privacy Leakage via Graph Reconstruction Attacks on Simplicial Neural Networks"</a> has been selected as one of the finalists!</li>
 
   <li> <b>[Nov, 2022]</b>. <a href="https://huixin-zhan.github.io//publications/">"Measuring the Privacy Leakage via Graph Reconstruction Attacks on Simplicial Neural Networks"</a> is accepted by AAAI-2023 Student Abstract and Poster Program!</li>
