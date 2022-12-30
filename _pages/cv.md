@@ -46,7 +46,7 @@ Service and leadership
 ======
 * 2023 AAAI Student Scholarship Award
 * 2022 CIKM Student Travel Award
-* 2021,2020 ICDM Student Travel Award
+* 2021, 2020 ICDM Student Travel Award
 * 2020 SIGKDD Student Registration Award
 * Reviewer for Conference Manuscript Submissions:
    * KDD 2023 
