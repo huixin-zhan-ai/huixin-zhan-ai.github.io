@@ -14,7 +14,7 @@ You can find my CV [here](https://drive.google.com/drive/folders/1B-NCJlwZvd1HKA
 Education
 ======
 
-* Ph.D. in Computer Science, Texas Tech University, 2024 (expected)
+* Ph.D. in Computer Science, Texas Tech University, 2023 (expected)
 * M.S. in Electrical Engineering, University of Texas at San Antonio, 2020
 * B.S. in Automation, Nanjing University of Science and Technology, 2018
 
@@ -44,8 +44,14 @@ Skills
   
 Service and leadership
 ======
+* 2022 AAAI Student Scholarship Award
+* 2021,2020 ICDM Student Travel Award
 * 2020 SIGKDD Student Registration Award
-* 2020 ICDM Student Travel Award
-* Reviewer for Conference Manuscript Submissions: 
+* Reviewer for Conference Manuscript Submissions:
+   * KDD 2023 
+   * ECML-PKDD 2021
+   * SDM 2023
    * PAKDD 2020
-   * ECML PKDD 2021
+* Reviewer for Journals:
+   * Journal of Artificial Intelligence Research (JAIR)
+   * Expert Systems with Applications
