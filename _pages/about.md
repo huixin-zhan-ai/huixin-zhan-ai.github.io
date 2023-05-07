@@ -16,7 +16,7 @@ In general, I am interested in machine learning, knowledge graph, graph neural n
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Apr, 2023]</b>. Invited to serve as a Program Committee (PC) member of the IJCAI-2023!</li>
+  <li> <b>[Apr, 2023]</b>. Invited to serve as a PC member of the IJCAI-2023!</li>
 
   <li> <b>[Dec, 2022]</b>. Received the AAAI-23 Student Scholarship!</li>
 
