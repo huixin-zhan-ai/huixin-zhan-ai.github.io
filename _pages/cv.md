@@ -14,12 +14,15 @@ You can find my CV [here](https://drive.google.com/drive/folders/1B-NCJlwZvd1HKA
 Education
 ======
 
-* Ph.D. in Computer Science, Texas Tech University, 2023 (expected)
+* Ph.D. in Computer Science, Texas Tech University, 2023
 * M.S. in Electrical Engineering, University of Texas at San Antonio, 2020
 * B.S. in Automation, Nanjing University of Science and Technology, 2018
 
 Work experience
 ======
+* July 2023 -: Postdoctoral Scientist
+  * Cedars-Sinai
+
 * Summer 2020 -: Research Assistant
   * Texas Tech University
 

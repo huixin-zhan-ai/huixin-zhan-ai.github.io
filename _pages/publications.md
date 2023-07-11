@@ -38,9 +38,9 @@ author_profile: true
   
   * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "K<sup>2</sup>-GNN: Multiple Users’ Comments Integration with Probabilistic K-Hop Knowledge Graph Neural Networks.'' <i>In Proceedings of the Asian Conference on Machine Learning (ACML), pp. 1477-1492. 2021.</i> 
     
- * Ireddy Siddhartha, <b>Huixin Zhan</b>, and Victor Sheng, "Abstractive Text Summarization via Stacked LSTM.'' <i> In Proceedings of the International Conference on Computational Science and Computational Intelligence (CSCI). 2021. </i> 
+  * Ireddy Siddhartha, <b>Huixin Zhan</b>, and Victor Sheng, "Abstractive Text Summarization via Stacked LSTM.'' <i> In Proceedings of the International Conference on Computational Science and Computational Intelligence (CSCI). 2021. </i> 
  
- * Makenzie Spurling, Chenyi Hu, <b>Huixin Zhan</b>, and Victor Sheng, "Estimating Crowd-Worker's Reliability with Interval-Valued Labels to Improve the Quality of Crowdsourced Work.'' <i> In Proceedings of the IEEE Symposium Series on Computational Intelligence (SSCI). 2021. </i> 
+  * Makenzie Spurling, Chenyi Hu, <b>Huixin Zhan</b>, and Victor Sheng, "Estimating Crowd-Worker's Reliability with Interval-Valued Labels to Improve the Quality of Crowdsourced Work.'' <i> In Proceedings of the IEEE Symposium Series on Computational Intelligence (SSCI). 2021. </i> 
     
 * <b>Publications @ UTSA:</b>
 
