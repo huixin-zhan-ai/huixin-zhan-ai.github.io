@@ -52,10 +52,10 @@ Service and leadership
 * 2021, 2020 ICDM Student Travel Award
 * 2020 SIGKDD Student Registration Award
 * Reviewer for Conference Manuscript Submissions:
+   *HICSS 2024
    * IJCAI 2023
    * KDD 2023 
    * CIKM 2023
-   * HICSS 2023
    * IEEE SMC 2023
    * ECML-PKDD 2021
    * SDM 2023
