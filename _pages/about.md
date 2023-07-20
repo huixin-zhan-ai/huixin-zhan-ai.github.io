@@ -16,6 +16,7 @@ In general, I am interested in machine learning, knowledge graph, graph neural n
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b>[Jul, 2023]</b>. Invited to serve as a PC member of the IEEE-SMC 2023 and HICSS-2024, as well as a subreviewer for the CIKM-2023!</li>
   <li> <b>[Jul, 2023]</b>. Start a new job as a Postdoctoral Scientist at Cedars-Sinai!</li>
   
   <li> <b>[Apr, 2023]</b>. Invited to serve as a PC member of the IJCAI-2023!</li>

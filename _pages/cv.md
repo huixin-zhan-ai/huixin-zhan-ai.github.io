@@ -54,6 +54,8 @@ Service and leadership
 * Reviewer for Conference Manuscript Submissions:
    * IJCAI 2023
    * KDD 2023 
+   * CIKM 2023
+   * HICSS 2023
    * IEEE SMC 2023
    * ECML-PKDD 2021
    * SDM 2023
