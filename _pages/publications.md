@@ -10,9 +10,9 @@ author_profile: true
 
 * <b>Publications @ TTU:</b>
 
-  * <b>Huixin Zhan</b>, Liyuan Gao, Kun Zhang, Zhong Chen, and Victor S. Sheng, "Defending the Graph Reconstruction Attacks for Simplicial Neural Networks'' <i>In Proceedings of the 5th edition of Special Session on Private, Secure, and Trust Data Analytics @ the 10th IEEE International Conference on Data Science and Advanced Analytics (PSTDA@DSAA) 2023.</i> 
+  * <b>Huixin Zhan</b>, Liyuan Gao, Kun Zhang, Zhong Chen, and Victor S. Sheng, "Defending the Graph Reconstruction Attacks for Simplicial Neural Networks'' <i>In Proceedings of the 5th edition of Special Session on Private, Secure, and Trust Data Analytics @ the 10th IEEE International Conference on Data Science and Advanced Analytics (PSTDA@DSAA). 2023.</i> 
 
-  * <b>Huixin Zhan</b>, Kun Zhang, Keyi Lu, and Victor S. Sheng, "Measuring the Privacy Leakage via Graph Reconstruction Attacks on Simplicial Neural Networks'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI) 2023.</i>  <ins><b>Student Abstract Finalists</b></ins>
+  * <b>Huixin Zhan</b>, Kun Zhang, Keyi Lu, and Victor S. Sheng, "Measuring the Privacy Leakage via Graph Reconstruction Attacks on Simplicial Neural Networks'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). 2023.</i>  <ins><b>Student Abstract Finalists</b></ins>
   
   * <b>Huixin Zhan</b> and Victor S. Sheng, "Privacy-Preserving Representation Learning for Text-Attributed Networks with Simplicial Complexes'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). 2023.</i> 
   
