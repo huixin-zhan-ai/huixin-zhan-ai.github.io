@@ -10,7 +10,9 @@ author_profile: true
 
 * <b>Publications @ TTU:</b>
 
-  * <b>Huixin Zhan</b>, Liyuan Gao, Kun Zhang, Zhong Chen, and Victor S. Sheng, "Defending the Graph Reconstruction Attacks for Simplicial Neural Networks'' <i>In Proceedings of the 5th edition of Special Session on Private, Secure, and Trust Data Analytics @ the 10th IEEE International Conference on Data Science and Advanced Analytics (PSTDA@DSAA). 2023.</i> 
+  * <b>Huixin Zhan</b>, Kun Zhang, Zhong Chen, and Victor S. Sheng, "Simplex2vec Backward: From Vectors Back to Simplicial Complex'' <i>In Proceedings of the 32nd ACM International Conference on Information & Knowledge Management (CIKM). 2023.</i> (Accepted, short paper)
+
+  * <b>Huixin Zhan</b>, Liyuan Gao, Kun Zhang, Zhong Chen, and Victor S. Sheng, "Defending the Graph Reconstruction Attacks for Simplicial Neural Networks'' <i>In Proceedings of the 5th edition of Special Session on Private, Secure, and Trust Data Analytics @ the 10th IEEE International Conference on Data Science and Advanced Analytics (PSTDA@DSAA). 2023.</i> (Accepted)
 
   * <b>Huixin Zhan</b>, Kun Zhang, Keyi Lu, and Victor S. Sheng, "Measuring the Privacy Leakage via Graph Reconstruction Attacks on Simplicial Neural Networks'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). 2023.</i>  <ins><b>Student Abstract Finalists</b></ins>
   
@@ -18,7 +20,7 @@ author_profile: true
   
   * Liyuan Gao, <b>Huixin Zhan</b>, Austin Chen, and Victor S. Sheng, "Towards Fair and Selectively Privacy-Preserving Models Using Negative Multi-Task Learning'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). 2023.</i> 
   
-  * Liyuan Gao, <b>Huixin Zhan</b>, Austin Chen, and Victor S. Sheng, "Mitigate Gender Bias using Negative Multi-Task Learning'' <i>In Neural Processing Letters. 2023.</i> (Accepted) 
+  * Liyuan Gao, <b>Huixin Zhan</b>, Austin Chen, and Victor S. Sheng, "Mitigate Gender Bias using Negative Multi-Task Learning'' <i>In Neural Processing Letters. 2023.</i> 
       
   * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "New Threats to Privacy-Preserving Text Representations.'' <i> In Proceedings of the 2022 Hawaii International Conference on System Sciences (HICSS), pp. 768-777. 2022. </i>
   
@@ -30,13 +32,13 @@ author_profile: true
   
   * Makenzie Spurling, Chenyi Hu, <b>Huixin Zhan</b>, and Victor Sheng, "Anomaly Detection in Crowdsourced Work with Interval-Valued Labels.'' <i> In Proceedings of the International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems (IPMU). 2022. </i> 
               
-  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "Multi-objective Privacy-preserving Text Representation Learning.'' <i>  In Proceedings of the 30th ACM International Conference on Information & Knowledge Management (CIKM), 2021 </i>(short paper)
+  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "Multi-objective Privacy-preserving Text Representation Learning.'' <i>  In Proceedings of the 30th ACM International Conference on Information & Knowledge Management (CIKM). 2021. </i>(short paper)
   
   * <b>Huixin Zhan</b>, Victor S. Sheng, and Wei-Ming Lin, "Reinforcement learning-based register renaming policy for simultaneous multithreading CPUs.''  <i>  In Expert Systems with Applications (2021): 115717</i>.
   
   * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "HGATs: Hierarchical Graph Attention Networks for Multiple Comments Integration.'' <i> In Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), pp. 159-163. 2021.</i> 
 
-  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "Gated Graph Neural Networks (GG-NNs) for Abstractive Multi-comment Summarization.'' <i>  In Proceedings of the 12th IEEE International Conference on Big Knowledge (ICBK), 2021</i> 
+  * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "Gated Graph Neural Networks (GG-NNs) for Abstractive Multi-comment Summarization.'' <i>  In Proceedings of the 12th IEEE International Conference on Big Knowledge (ICBK). 2021.</i> 
   
   * <b>Huixin Zhan</b>, Kun Zhang, Chenyi Hu, and Victor S. Sheng, "K<sup>2</sup>-GNN: Multiple Users’ Comments Integration with Probabilistic K-Hop Knowledge Graph Neural Networks.'' <i>In Proceedings of the Asian Conference on Machine Learning (ACML), pp. 1477-1492. 2021.</i> 
     
@@ -46,7 +48,7 @@ author_profile: true
     
 * <b>Publications @ UTSA:</b>
 
-  * <b>Huixin Zhan</b>, Wei-Ming Lin and Yongcan Cao, "Deep Model Compression Via Two-Stage Deep Reinforcement Learning'', <i> European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021.</i> [(Link)](https://2021.ecmlpkdd.org/?page_id=1811)
+  * <b>Huixin Zhan</b>, Wei-Ming Lin and Yongcan Cao, "Deep Model Compression Via Two-Stage Deep Reinforcement Learning'', <i> European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD). 2021.</i> [(Link)](https://2021.ecmlpkdd.org/?page_id=1811)
 
   * <b>Huixin Zhan</b>, Feng Tao and Yongcan Cao, "Human-guided Robot Behavior Learning: A GAN-assisted Preference-based Reinforcement Learning Approach'', <i> IEEE Robotics and Automation Letters (RA-L), 6, no. 2, 2021: 3545-3552.</i> [(pdf)](https://ieeexplore.ieee.org/abstract/document/9369902)
 
