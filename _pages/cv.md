@@ -52,13 +52,15 @@ Service and leadership
 * 2021, 2020 ICDM Student Travel Award
 * 2020 SIGKDD Student Registration Award
 * Reviewer for Conference Manuscript Submissions:
+   * AAAI 2024
    * HICSS 2024
    * IJCAI 2023
    * KDD 2023 
    * CIKM 2023
+   * ICKG 2023
    * IEEE SMC 2023
    * ECML-PKDD 2021
-   * SDM 2023
+   * SDM 2024, 2023
    * PAKDD 2020
 * Reviewer for Journals:
    * Journal of Artificial Intelligence Research (JAIR)

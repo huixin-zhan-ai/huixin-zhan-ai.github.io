@@ -10,9 +10,11 @@ author_profile: true
 
 * <b>Publications @ TTU:</b>
 
-  * <b>Huixin Zhan</b>, Kun Zhang, Zhong Chen, and Victor S. Sheng, "Simplex2vec Backward: From Vectors Back to Simplicial Complex'' <i>In Proceedings of the 32nd ACM International Conference on Information & Knowledge Management (CIKM). 2023.</i> (Accepted, short paper)
+  * <b>Huixin Zhan</b> and Zijun Frank Zhang, "Parameter-Efficient Fine-Tune on Open Pre-trained Transformers for Genomic Sequence'' <i>In the 1st Workshop on Generative AI and Biology @ the Proceedings of the 37th Conference on Neural Information Processing Systems (GenBio@NeurIPS). 2023.</i> (Accepted)
 
-  * <b>Huixin Zhan</b>, Liyuan Gao, Kun Zhang, Zhong Chen, and Victor S. Sheng, "Defending the Graph Reconstruction Attacks for Simplicial Neural Networks'' <i>In Proceedings of the 5th edition of Special Session on Private, Secure, and Trust Data Analytics @ the 10th IEEE International Conference on Data Science and Advanced Analytics (PSTDA@DSAA). 2023.</i> (Accepted)
+  * <b>Huixin Zhan</b>, Kun Zhang, Zhong Chen, and Victor S. Sheng, "Simplex2vec Backward: From Vectors Back to Simplicial Complex'' <i>In Proceedings of the 32nd ACM International Conference on Information & Knowledge Management (CIKM). 2023.</i> (Short paper)
+
+  * <b>Huixin Zhan</b>, Liyuan Gao, Kun Zhang, Zhong Chen, and Victor S. Sheng, "Defending the Graph Reconstruction Attacks for Simplicial Neural Networks'' <i>In the 5th Edition of Special Session on Private, Secure, and Trust Data Analytics @ the Proceedings of the 10th IEEE International Conference on Data Science and Advanced Analytics (PSTDA@DSAA). 2023.</i> (Accepted)
 
   * <b>Huixin Zhan</b>, Kun Zhang, Keyi Lu, and Victor S. Sheng, "Measuring the Privacy Leakage via Graph Reconstruction Attacks on Simplicial Neural Networks'' <i>In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). 2023.</i>  <ins><b>Student Abstract Finalists</b></ins>
   
