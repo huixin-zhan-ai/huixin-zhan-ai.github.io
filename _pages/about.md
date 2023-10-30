@@ -16,7 +16,7 @@ In general, I am interested in machine learning, knowledge graph, graph neural n
 
 <ul style="width: auto; height: 300px; overflow: auto">
   <li> <b>[Oct, 2023]</b>. Invited to serve as a PC member for AAAI-2024, SDM-2024, and ICKG-2023!</li>
-  <li> <b>[Aug, 2023]</b>. <a href="https://huixin-zhan.github.io//publications/">"Simplex2vec Backward: From Vectors Back to Simplicial Complex"</a> is accepted to CIKM-2023!</li>
+  <li> <b>[Aug, 2023]</b>. <a href="https://huixin-zhan.github.io//publications/">"Simplex2vec Backward: From Vectors Back to Simplicial Complex"</a> is accepted by CIKM-2023!</li>
   <li> <b>[Jul, 2023]</b>. Invited to serve as a PC member for IEEE-SMC 2023 and HICSS-2024, as well as a subreviewer for CIKM-2023!</li>
   <li> <b>[Jul, 2023]</b>. Start a new job as a Postdoctoral Scientist at Cedars-Sinai!</li>
   
