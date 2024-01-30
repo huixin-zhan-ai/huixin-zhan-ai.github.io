@@ -54,6 +54,7 @@ Service and leadership
 * Reviewer for Conference Manuscript Submissions:
    * AAAI 2024
    * HICSS 2024
+   * IJCNN 2024
    * IJCAI 2023
    * KDD 2023 
    * CIKM 2023
@@ -64,4 +65,5 @@ Service and leadership
    * PAKDD 2020
 * Reviewer for Journals:
    * Journal of Artificial Intelligence Research (JAIR)
+   * ACM Transactions on Human-Robot Interaction
    * Expert Systems with Applications
