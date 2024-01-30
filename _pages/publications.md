@@ -9,6 +9,7 @@ author_profile: true
 * <b>Publications @ Cedars-Sinai:</b>
 
    * <b>Huixin Zhan</b> and Zijun Frank Zhang, "Parameter-Efficient Fine-Tune on Open Pre-trained Transformers for Genomic Sequence'' <i>in the 1st Workshop on Generative AI and Biology @ the Proceedings of the 37th Conference on Neural Information Processing Systems (GenBio@NeurIPS). 2023.</i> [(Link)](https://nips.cc/virtual/2023/74720)
+   
    *  <b>Huixin Zhan</b> and Zijun Frank Zhang, "ProPath: Disease-Specific Protein Language Model for Variant Pathogenicity" <i>in Proceedings of Machine Learning in Computational Biology (MLCB). 2023.</i>  (Accepted) [(pdf)](https://arxiv.org/abs/2311.03429)
 
 * <b>Publications @ TTU:</b>
