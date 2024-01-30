@@ -16,9 +16,11 @@ author_profile: true
 * <b>Publications @ TTU:</b>
 
 
+  * <b>Huixin Zhan</b>, Kun Zhang, Zhong Chen, and Victor S. Sheng, "Defense Against Adversarial Attacks for Neural Representations of Text'' <i>in Proceedings of the 57th Hawaii International Conference on System Sciences (HICSS). 2024.</i> 
+  
   * <b>Huixin Zhan</b>, Kun Zhang, Zhong Chen, and Victor S. Sheng, "Simplex2vec Backward: From Vectors Back to Simplicial Complex'' <i>in Proceedings of the 32nd ACM International Conference on Information & Knowledge Management (CIKM). 2023.</i> (Short paper)
 
-  * <b>Huixin Zhan</b>, Liyuan Gao, Kun Zhang, Zhong Chen, and Victor S. Sheng, "Defending the Graph Reconstruction Attacks for Simplicial Neural Networks'' <i>in the 5th Edition of Special Session on Private, Secure, and Trust Data Analytics @ the Proceedings of the 10th IEEE International Conference on Data Science and Advanced Analytics (PSTDA@DSAA). 2023.</i> (Accepted)
+  * <b>Huixin Zhan</b>, Liyuan Gao, Kun Zhang, Zhong Chen, and Victor S. Sheng, "Defending the Graph Reconstruction Attacks for Simplicial Neural Networks'' <i>in the 5th Edition of Special Session on Private, Secure, and Trust Data Analytics @ the Proceedings of the 10th IEEE International Conference on Data Science and Advanced Analytics (PSTDA@DSAA). 2023.</i> 
 
   * <b>Huixin Zhan</b>, Kun Zhang, Keyi Lu, and Victor S. Sheng, "Measuring the Privacy Leakage via Graph Reconstruction Attacks on Simplicial Neural Networks'' <i>in Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI). 2023.</i>  <ins><b>Student Abstract Finalists</b></ins>
   
