@@ -18,7 +18,7 @@ Education
 * M.S. in Electrical Engineering, University of Texas at San Antonio, 2020
 * B.S. in Automation, Nanjing University of Science and Technology, 2018
 
-Work experience
+Work Experience
 ======
 * July 2023 -: Postdoctoral Scientist
   * Cedars-Sinai
