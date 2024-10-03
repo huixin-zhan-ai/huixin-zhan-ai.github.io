@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-My name is Huixin Zhan. I am currently a Postdoctoral Scientist in the Division of Artificial Intelligence in Medicine at [Cedars-Sinai Medical Center](https://www.cedars-sinai.org). Previously, I obtained my Ph.D. in Computer Science in the [Department of Computer Science](https://www.depts.ttu.edu/cs/) at [Texas Tech University](https://www.ttu.edu/), where I am fortunately advised by Prof. [Victor Sheng](https://www.depts.ttu.edu/cs/faculty/victor_sheng/index.php). I earned my MS at the University of Texas at San Antonio, and I earned my BEng at Nanjing University of Science and Technology. 
+%My name is Huixin Zhan. I am currently a Postdoctoral Scientist in the Division of Artificial Intelligence in Medicine at [Cedars-Sinai Medical Center](https://www.cedars-sinai.org). Previously, I obtained my Ph.D. in Computer Science in the [Department of Computer Science](https://www.depts.ttu.edu/cs/) at [Texas Tech University](https://www.ttu.edu/), where I am fortunately advised by Prof. [Victor Sheng](https://www.depts.ttu.edu/cs/faculty/victor_sheng/index.php). I earned my MS at the University of Texas at San Antonio, and I earned my BEng at Nanjing University of Science and Technology. 
+My name is Huixin Zhan. I am currently a Postdoctoral Scientist in the Department of Computational Biomedicine at [Cedars-Sinai Medical Center](https://www.cedars-sinai.org), advised by Prof. Jason Moore. I obtained my Ph.D. in Computer Science from the [Department of Computer Science](https://www.depts.ttu.edu/cs/) at [Texas Tech University](https://www.ttu.edu/), where I was advised by Prof. [Victor Sheng](https://www.depts.ttu.edu/cs/faculty/victor_sheng/index.php). Previously, I had the pleasure to work with Zijun Frank Zhang, who is now at Natera. I earned my MS at the University of Texas at San Antonio, and my BEng at Nanjing University of Science and Technology.
 
-In general, I am interested in machine learning, knowledge graph, graph neural networks, text summarization, and security & privacy in text mining.
+I am broadly interested in machine learning, large language models, and graph neural networks, particularly their applications in text summarization, security, and privacy in both text mining and genomics data. My current research focuses on variant effect prediction using large language models, combining machine learning with genomics and biomedicine to develop predictive tools for cardiomyopathy and arrhythmia. Additionally, I explore the application of large language models to biomedical challenges, focusing on enhancing in-context learning and retrieval-augmented generation (RAG) for more effective knowledge graph-based reasoning.
+
+<span style="color:blue">I am currently on the job market, seeking opportunities in academia or industry where I can further advance my research. If you share similar interests or see potential synergies, please feel free to reach out via [email](mailto:huixin.zhan@cshs.org)!</span>
+
+### 🤖 Check Out the New PhD Program at Cedars
+
+If you're interested in pursuing research in health and artificial intelligence, I encourage you to check out the [new PhD Program at Cedars-Sinai](https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html).
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 

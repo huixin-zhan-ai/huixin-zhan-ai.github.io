@@ -8,6 +8,13 @@ author_profile: true
 {% include base_path %}
 * <b>Publications @ Cedars-Sinai:</b>
 
+   * <b>Huixin Zhan</b>  and Zijun Frank Zhang, "DYNA: Disease-Specific Language Model for Variant Pathogenicity," Under 2nd round peer review at <i>Nature Machine Intelligence (arXiv preprint arXiv:2406.00164). 2024.</i> [(Link)](https://arxiv.org/pdf/2406.00164)
+
+
+   * <b>Huixin Zhan</b> , Ying Nian Wu, and Zijun Frank Zhang, "Efficient and Scalable Fine-Tune of Language Models for Genome Understanding," Under 2nd round peer review at <i>Nature Communications (arXiv preprint arXiv:2402.08075). 2024.</i> [(Link)](https://arxiv.org/pdf/2402.08075)
+
+
+   * <b>Huixin Zhan</b> , Zijun Frank Zhang, and Jason Moore, "DREAM-VEP: A Modular and Open-Source Framework for Developing Robust, Efficient, and Adaptive Models in Variant Effect Prediction," Submitted to <i>The 39th Annual AAAI Conference on Artificial Intelligence (AAAI). 2024.</i> 
 
    * <b>Huixin Zhan</b> and Zijun Frank Zhang, "Parameter-Efficient Fine-Tune on Open Pre-trained Transformers for Genomic Sequence'' <i>in the 1st Workshop on Generative AI and Biology @ the Proceedings of the 37th Conference on Neural Information Processing Systems (GenBio@NeurIPS). 2023.</i> [(Link)](https://nips.cc/virtual/2023/74720)
    
