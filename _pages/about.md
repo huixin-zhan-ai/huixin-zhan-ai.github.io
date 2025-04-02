@@ -13,7 +13,7 @@ My name is Huixin Zhan. I am currently a Postdoctoral Scientist in the Departmen
 
 I am broadly interested in machine learning, large language models, and graph neural networks, particularly their applications in text summarization, security, and privacy in both text mining and genomics data. My current research focuses on variant effect prediction using large language models, combining machine learning with genomics and biomedicine to develop predictive tools for cardiomyopathy and arrhythmia. Additionally, I explore the application of large language models to biomedical challenges, focusing on enhancing in-context learning and retrieval-augmented generation (RAG) for more effective knowledge graph-based reasoning.
 
-<span style="color:blue">I am currently on the job market, seeking opportunities in academia or industry where I can further advance my research. If you share similar interests or see potential synergies, please feel free to reach out via [email](mailto:huixin.zhan@cshs.org)!</span>
+
 
 ### 🤖 Check Out the New PhD Program at Cedars
 
@@ -22,6 +22,8 @@ If you're interested in pursuing research in health and artificial intelligence,
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li><b>[Aug, 2023]</b>. <a href="https://huixin-zhan.github.io//publications/">"A disease-specific language model for variant pathogenicity in cardiac and regulatory genomics"</a> is published in <span style="background-color:#f2f2f2; padding:2px 6px; border-radius:5px; font-weight:bold;"><i>Nature Machine Intelligence</i></span>!</li>
+  <li> <b>[Jun, 2024]</b>. Invited to serve as a reviewer for ACL-2025 and Nature Scientific Reports!</li>
   <li> <b>[Jun, 2024]</b>. Invited to serve as a PC member for AAAI-2025 and a reviewer for both Machine Learning and Autonomous Agents and Multi-Agent Systems!</li>
   <li> <b>[Jan, 2024]</b>. Invited to serve as a TPC member for IJCNN-2024, and a reviewer for ACM Transactions on Human-Robot Interaction!</li>
   <li> <b>[Oct, 2023]</b>. Invited to serve as a PC member for AAAI-2024, SDM-2024, and ICKG-2023!</li>
