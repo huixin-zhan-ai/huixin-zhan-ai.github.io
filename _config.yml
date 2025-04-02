@@ -13,7 +13,7 @@ name                     : &name "Huixin Zhan"
 description              : &description "I am a Ph.D student in the Department of Computer Science at Texas Tech University."
 url                      : https://huixin-zhan-ai.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huixin-zhan-ai/huixin-zhan-ai.github.io"
+repository               : "98k-bot/huixin-zhan-ai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
