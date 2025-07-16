@@ -57,13 +57,14 @@ I am broadly interested in machine learning, large language models, and graph ne
 
 ---
 
-<div style="color: gray; opacity: 0.7;">
+<div style="color: gray; opacity: 0.8; margin-bottom: 2rem;">
 
-During my postdoc at Cedars-Sinai, I had the fun of helping promote their new PhD Program in Health & Artificial Intelligence.
+<p>During my postdoc at Cedars-Sinai, I had the fun of helping promote their new PhD Program in Health & Artificial Intelligence.</p>
 
-### 🤖 Check Out the New PhD Program at Cedars
-
-If you're interested in pursuing research in health and artificial intelligence, I encourage you to check out the [new PhD Program at Cedars-Sinai](https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html).
+<p><strong>🤖 Check Out the New PhD Program at Cedars</strong><br>
+If you're interested in pursuing research in health and artificial intelligence, I encourage you to check out the 
+<a href="https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html" target="_blank">new PhD Program at Cedars-Sinai</a>.</p>
 
 </div>
+
 
