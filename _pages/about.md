@@ -13,6 +13,15 @@ My name is Huixin Zhan. I am a tenure-track Assistant Professor in the [Departme
 
 I am broadly interested in machine learning, large language models, and graph neural networks, particularly their applications in text summarization, security, and privacy in both text mining and genomics data. My current research focuses on variant effect prediction using large language models, combining machine learning with genomics and biomedicine to develop predictive tools for cardiomyopathy and arrhythmia. Additionally, I explore the application of large language models to biomedical challenges, focusing on enhancing in-context learning and retrieval-augmented generation (RAG) for more effective knowledge graph-based reasoning.
 
+<div style="border: 2px solid #006699; border-radius: 10px; padding: 1.5em; background-color: #f9f9f9; margin: 2em 0;">
+  <h2 style="margin-top: 0; color: #006699;">🧬 Check Out the Zhan Lab!</h2>
+  <p>
+    We are a research group at <a href="https://nmt.edu/academics/compsci/index.php" target="_blank"><strong>New Mexico Tech</strong></a> advancing AI for scientific discovery, clinical translation, and agentic intelligence.
+  </p>
+  <p>
+    🔗 <a href="https://zhan-lab-ai.github.io/" target="_blank"><strong>Visit Our Lab Website</strong></a>
+  </p>
+</div>
 
 
 ### 🤖 Check Out the New PhD Program at Cedars
